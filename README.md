@@ -98,7 +98,7 @@ Execute the program
 
 ~~~
 # OUPUT
-![output2](/Screenshot%20from%202023-01-18%2022-52-52.png)
+![output2](/Screenshot%20from%202023-01-28%2009-34-18.png)
 
 # RESULT
 The program displays the timetable
